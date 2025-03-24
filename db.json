@@ -1,0 +1,67 @@
+{
+  "bookedSlots": [
+    {
+      "id": "1742454190634",
+      "userName": "swastik",
+      "carNumber": "GJ05CG7655",
+      "checkInTime": "2025-03-21T12:32",
+      "checkOutTime": "2025-03-22T12:32",
+      "totalHours": 24,
+      "totalAmount": 240
+    },
+    {
+      "id": "1742454210133",
+      "userName": "jinal",
+      "carNumber": "gj05sv8999",
+      "checkInTime": "2025-03-29T12:33",
+      "checkOutTime": "2025-03-31T12:33",
+      "totalHours": 48,
+      "totalAmount": 480
+    },
+    {
+      "id": "1742454258291",
+      "userName": "mansi",
+      "carNumber": "GJ05sv2067",
+      "checkInTime": "2025-03-28T12:34",
+      "checkOutTime": "2025-03-29T12:34",
+      "totalHours": 24,
+      "totalAmount": 240
+    },
+    {
+      "id": "1742458339396",
+      "userName": "swastik",
+      "carNumber": "",
+      "checkInTime": "2025-03-26T13:42",
+      "checkOutTime": "2025-03-28T13:42",
+      "totalHours": 48,
+      "totalAmount": 480
+    },
+    {
+      "id": "6d9c",
+      "userName": "jinal",
+      "carNumber": "gj05sv8999",
+      "checkInTime": "2025-03-21T13:54",
+      "checkOutTime": "2025-03-29T13:54",
+      "totalHours": 192,
+      "totalAmount": 1920
+    },
+    {
+      "id": "1742459421788",
+      "userName": "swastik",
+      "carNumber": "",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "totalHours": 0,
+      "totalAmount": 0
+    },
+    {
+      "id": "1742460278225",
+      "userName": "swastik",
+      "carNumber": "gj05sv8999",
+      "checkInTime": "",
+      "checkOutTime": "",
+      "totalHours": 0,
+      "totalAmount": 0
+    }
+  ]
+}
